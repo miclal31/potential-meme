@@ -1,0 +1,4 @@
+﻿  BST.cpp
+D:\WojtekN\Projekty\zadanie5\zrodla\BST.cpp(196,48): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\WojtekN\Projekty\zadanie5\zrodla\BST.cpp(198): warning C4715: 'czyJest': not all control paths return a value
+  zadanie5.vcxproj -> D:\WojtekN\Projekty\zadanie5\Debug\zadanie5.exe
